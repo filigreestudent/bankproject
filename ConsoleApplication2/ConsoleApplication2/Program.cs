@@ -10,6 +10,7 @@ namespace ConsoleApplication2
         static void Main(string[] args)
         {
             int s1;
+            int s2;
         }
     }
 }
